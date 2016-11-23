@@ -41,7 +41,7 @@
 				</os>
 			</activation>
 			<properties>
-			<envname>win</envname>
+			<envname>windows</envname>
 			</properties>
 		</profile>
 		<profile>
