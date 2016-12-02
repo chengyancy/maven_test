@@ -13,7 +13,6 @@
 
 		<profile>
 			<id>dev8</id>
-
 			<properties>
 				<jdbc.Username>kevin</jdbc.Username>
 				<jdbc.Pass>kevin1234</jdbc.Pass>
